@@ -121,6 +121,7 @@ body {
 
   .hero-banner-img {
     display: none;
+    border: 1px solid red;
   }
 
   .exercise-card {
